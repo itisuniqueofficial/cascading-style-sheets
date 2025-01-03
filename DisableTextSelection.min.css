@@ -1,1 +1,9 @@
+/*!
+ * DisableTextSelection.min.css
+ * Description: CSS to disable text selection globally across all elements.
+ * Author: It Is Unique Official
+ * Website: https://www.itisuniqueofficial.com
+ * Date: January 3, 2025
+ * License: MIT
+ */
 *{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;}
